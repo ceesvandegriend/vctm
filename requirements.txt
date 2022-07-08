@@ -1,6 +1,3 @@
 build==0.8.0
 packaging==21.3
 pep517==0.12.0
-pyparsing==3.0.9
-tomli==2.0.1
--e git+ssh://git@github.com/ceesvandegriend/vctm.git@d4766f508a91a306837fb3d66aa56e687be7b025#egg=vctm
